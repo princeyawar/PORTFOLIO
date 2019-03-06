@@ -1,0 +1,20 @@
+
+.my_nav_bar li{
+color: aqua;
+padding: 0rem 1rem;
+color: red;
+
+}
+.Personal_Information>li{
+    list-style-type: none;
+}
+@media(max-width:568px)
+{
+.my_nav_bar{
+    /* position: relative; */
+}
+.my_nav_bar_list{
+    /* position: absolute; */
+    /* background-color: red; */
+}
+}
